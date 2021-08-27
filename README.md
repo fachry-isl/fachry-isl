@@ -13,3 +13,6 @@ Software Engineer who loves to create and share project about mobile development
 </a>
 </p>
 
+### Reach me on
+- <a href="https://www.linkedin.com/in/fachry-ikhsal-86aa121bb/">LinkedIn</a>
+- [Instagram](https://www.instagram.com/fachry.ikhsal/)
