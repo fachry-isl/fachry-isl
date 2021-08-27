@@ -7,9 +7,9 @@ Software Engineer who loves to create and share project about mobile development
 
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/FachryIkhsal890">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FachryIkhsal890&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FachryIkhsal890&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/fachry-isl">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fachry-isl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fachry-isl&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
