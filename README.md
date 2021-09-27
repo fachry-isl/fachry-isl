@@ -1,9 +1,7 @@
 ## Hi 👋 I'm Fachry
 Software Engineer who loves to create and share project about mobile development!
 <!-- - 🔭 I’m currently working on <a href="https://github.com/companyName">@company</a> -->
-- 🌱 I’m currently learning about android development
-- 💬 Feel free to ask me about android development
-- ⚡ Fun fact: I likes playing Dota 2
+🌱 I’m currently learning about android development
 
 ### Github Statistic
 <p align="left">
