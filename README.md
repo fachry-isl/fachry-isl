@@ -1,5 +1,5 @@
 ## Hi 👋 I'm Fachry
--🌱 Currently learning about android development
+🌱 Currently learning about android development
 
 ### Github Statistic
 <p align="left">
