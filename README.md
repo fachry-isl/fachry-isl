@@ -1,6 +1,5 @@
 ## Hi 👋 I'm Fachry
-Software Engineer who loves to create and share project about mobile development!
-🌱 Currently learning about android development
+-🌱 Currently learning about android development
 
 ### Github Statistic
 <p align="left">
