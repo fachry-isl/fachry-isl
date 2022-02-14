@@ -1,6 +1,3 @@
-## Hi 👋 I'm Fachry
-🌱 Currently learning about android development
-
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/fachry-isl">
