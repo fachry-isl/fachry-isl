@@ -1,5 +1,5 @@
 ## Hi, I'm Fachry 👋
-I love to learn many things, from Data Science, Data Engineering, Machine Learning, AI, to Software Development. Currently, I am deepening my skills in Full Stack Web Development. My curiosity about technology is inspired by problems that I encounter daily. Starting out my career as a BI developer, I encountered many problems around data quality that inspired me to learn more about Data Engineering. After some time, I also broadened my knowledge in Software Development to help entrepreneurs digitalize their businesses.
+I love to learn many things, from Data Science, Data Engineering, Machine Learning, AI, to Software Development. Currently, I am deepening my skills in Web Development. My curiosity about technology is inspired by problems that I encounter daily. Starting out my career as a BI developer, I encountered many problems around data quality that inspired me to learn more about Data Engineering. After some time, I also broadened my knowledge in Software Development to help entrepreneurs digitalize their businesses.
 I believe expanding knowledge will equip me with a better understanding to solve problems using Technology.
 
 <p align="left">
