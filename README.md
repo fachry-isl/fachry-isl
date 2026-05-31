@@ -12,3 +12,5 @@
     <img src="https://skillicons.dev/icons?i=py,js,typescript,go,java,kotlin,react,django,fastapi,tensorflow,docker,postgres,linux,androidstudio" />
   </a>
 </p>
+
+<!-- 🔥 Streak ping: 2026-05-31 20:16 WIB -->
